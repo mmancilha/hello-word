@@ -8,6 +8,6 @@ Repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 
 ## 👩🏽‍💻 Resumos das Aulas
 
-| First Header  | Second Header |
+| Aulas  | Resumos |
 | ------------- | ------------- |
-| Gravando alterações no Repositório Local  | Content Cell  |
+| Gravando alterações no Repositório Local  | Git/GitHub  |
